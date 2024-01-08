@@ -8,7 +8,7 @@
   background-color: #002657;
 }
 .home-header {
-  position: sticky;
+  position: fixed;
   width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
